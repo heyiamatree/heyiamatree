@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,nodejs,go,cs,electron,vim&theme=dark)](https://skillicons.dev)
 
+### AND THOSE:
+
 <div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Angular&color=D70040&logo=Angular&logoColor=white&style=flat-square">
