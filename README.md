@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,blender,swift,godat&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,blender,swift,godot&theme=light)](https://skillicons.dev)
 
 ### HERE'S MY GMAIL: i572125099@gmail.com
