@@ -1,4 +1,6 @@
-## Hi there 👋 MY SKILLS:
+## Hi there 👋 I'M A TREE!
+
+## HERE ARE MY SKILLS:
 
 <!--
 **heyiamatree/heyiamatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
