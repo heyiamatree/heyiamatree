@@ -1,4 +1,4 @@
-## HI THERE, I'M A TREE! 🌳
+## HI THERE, I'M A TREE🌳!
 
 ### I CAN DO THOSE:
 
