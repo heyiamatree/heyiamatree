@@ -1,4 +1,4 @@
-## HI THERE, I'M A TREE🌳!! And..Uhh I'm a Developer!
+## HI THERE, I'M A TREE🌳!! And..Uhh I'm a Developer!🙂
 
 ### I CAN DO THOSE:
 
