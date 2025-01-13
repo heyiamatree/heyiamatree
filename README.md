@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 MY SKILLS:
 
 <!--
 **heyiamatree/heyiamatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,nodejs,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,nodejs,rust,go,cs)](https://skillicons.dev)
