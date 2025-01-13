@@ -1,4 +1,4 @@
-## HI THERE, I'M A TREE🌳!! And..Uhh I'm a Developer!🙂
+## HI THERE, I'M A TREE🌳!! And..Uhh I'm a Developer!🙂 And I'm developing my own language! Oh yeah!
 
 ### I CAN DO THOSE:
 
@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,blender,swift,godot&theme=light)](https://skillicons.dev)
 
--->
+I can write OS and compilers. 
+AI...
+system design, backend, fullstack...
+Still Learning Quantun Computing...
 
+
+
+-->
 
 [![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,nodejs,go,cs,electron,vim&theme=dark)](https://skillicons.dev)
 
