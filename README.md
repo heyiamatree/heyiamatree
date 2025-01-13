@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,swift&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,swift&theme=dark)](https://skillicons.dev)
 
 ### HERE'S MY GMAIL: i572125099@gmail.com
