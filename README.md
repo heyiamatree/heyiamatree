@@ -1,6 +1,6 @@
 ## HI THERE 👋 I'M A TREE! 🌳
 
-### I CAN DO THOSE:
+### I CAN USE THOSE:
 
 <!--
 **heyiamatree/heyiamatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
