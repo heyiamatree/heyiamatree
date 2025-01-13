@@ -29,7 +29,7 @@ Still Learning Quantun Computing...
 
 [![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,nodejs,go,cs,electron,vim&theme=dark)](https://skillicons.dev)
 
-### AND THOSE:
+### AND THOSE(Still learning):
 
 <div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat-square">
