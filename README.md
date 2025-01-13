@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,blender,swift,godot&theme=light)](https://skillicons.dev)
+
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,blender,swift,godot&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,c,cpp,java,nodejs,rust,go,cs,electron,vim,swift&theme=light)](https://skillicons.dev)
 
 ### HERE'S MY GMAIL: i572125099@gmail.com
