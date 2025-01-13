@@ -41,10 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=086DD7&logo=Docker&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Puppeteer&color=40B5A4&logo=puppeteer&logoColor=white&style=flat-square">
 </div>
-<br>
-<br>
-What I used in the past as a freelancer : 
-<br><br>
+
 <div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&logo=Laravel&logoColor=white&style=flat-square">
