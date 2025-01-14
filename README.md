@@ -1,5 +1,5 @@
 ## HI THERE, I'M A TREE 🌳
-
+<img src="IMG_2559.jpeg">
 ### I CAN DO THOSE:
 
 <!--
@@ -27,7 +27,7 @@ Still Learning Quantun Computing...
 
 -->
 
-<img src="IMG_2559.jpeg">
+
 
 [![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,nodejs,go,cs,electron,vim&theme=dark)](https://skillicons.dev)
 
