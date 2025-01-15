@@ -1,6 +1,7 @@
 ## HI THERE, I'M A TREE 🌳
+<!--
 <img src="IMG_2559.jpeg">
-
+-->
 ### I CAN DO THOSE:
 
 <!--
@@ -32,6 +33,7 @@ Still Learning Quantun Computing...
 
 [![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,nodejs,go,cs,electron,js,vim&theme=dark)](https://skillicons.dev)
 
+<!--
 ### AND THOSE(Still learning):
 
 <div style="display:flex;">
@@ -59,6 +61,8 @@ Still Learning Quantun Computing...
   <img src="https://img.shields.io/static/v1?label=&message=After Effects&color=9999FF&logo=adobeaftereffects&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Blender&color=F5792A&logo=blender&logoColor=white&style=flat-square">
 </div>
+
+-->
 
 ### HERE'S MY GMAIL: i572125099@gmail.com
 
