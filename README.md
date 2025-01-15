@@ -51,9 +51,6 @@ Still Learning Quantun Computing...
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=086DD7&logo=Docker&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Puppeteer&color=40B5A4&logo=puppeteer&logoColor=white&style=flat-square">
-</div>
-
-<div style="display:flex;">
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&logo=Laravel&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4169E1&logo=MySQL&logoColor=white&style=flat-square">
