@@ -1,8 +1,7 @@
-## HI THERE, I'M A TREE 🌳
+### I'M A TREE, I CAN DO THOSE:
 <!--
 <img src="IMG_2559.jpeg">
 -->
-### I CAN DO THOSE:
 
 <!--
 **heyiamatree/heyiamatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
