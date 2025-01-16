@@ -1,5 +1,5 @@
-### I'M A TREE, I CAN DO THOSE:
-<!--
+
+<!--### I'M A TREE, I CAN DO THOSE:
 <img src="IMG_2559.jpeg">
 -->
 <!--
@@ -24,12 +24,12 @@ system design, backend, fullstack...
 Still Learning Quantun Computing...
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,go,cs,js,vim&theme=dark)](https://skillicons.dev)
 -->
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,go,cs,js,vim&theme=dark)](https://skillicons.dev)
+
 
 <!--
 ### AND THOSE(Still learning):
@@ -59,9 +59,9 @@ Still Learning Quantun Computing...
   <img src="https://img.shields.io/static/v1?label=&message=After Effects&color=9999FF&logo=adobeaftereffects&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/static/v1?label=&message=Blender&color=F5792A&logo=blender&logoColor=white&style=flat-square">
 </div>
-
+### HERE'S MY GMAIL: i572125099@gmail.com
 -->
 
-### HERE'S MY GMAIL: i572125099@gmail.com
+
 
 <!-- <img src="IMG_2562.jpeg"> -->
