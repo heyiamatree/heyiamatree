@@ -29,7 +29,7 @@ Still Learning Quantun Computing...
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,nodejs,go,cs,electron,js,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,swift,py,c,cpp,java,rust,go,cs,js,vim&theme=dark)](https://skillicons.dev)
 
 <!--
 ### AND THOSE(Still learning):
